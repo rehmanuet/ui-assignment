@@ -43,7 +43,7 @@ Folder Structure
 ├── pom.xml              
 ├── TestNG.xml
 ├── README.md
-└── Testcases_Documentation.xlsx
+└── Testcases_Documentation.pdf
 ```
 
 Coverage
