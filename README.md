@@ -49,7 +49,7 @@ Folder Structure
 Coverage
 ---------------
 This framework covers the both positive and negative testcases.
-Documentation of testcases could be found on [Google Sheets](https://docs.google.com/spreadsheets/d/1wOXMjlHbKgl4n7AcCAfOLqjzCm-CqXIt0TRLI-O1mXg/edit?usp=sharing) as well as within project i.e `Testcases_Documentation - Testcases.pdf` </br>
+Documentation of testcases could be found on [Google Sheets](https://docs.google.com/spreadsheets/d/1wOXMjlHbKgl4n7AcCAfOLqjzCm-CqXIt0TRLI-O1mXg/edit?usp=sharing) as well as within project i.e `Testcases_Documentation.pdf` </br>
 Test Application: [www.automationpractice.com](https://automationpractice.com/)
 
 #### Test Cases Breakdown
@@ -61,10 +61,9 @@ Test Application: [www.automationpractice.com](https://automationpractice.com/)
 <b><sub>Sub Total Test cases</sub></b>|    <b><sub>8</b></sub> |
 
 
-
 Result
 ---------------
-Hosted HTMP Report:[Link](https://scarlet-ivory-36.tiiny.site/)<br />
+Hosted HTML Report:[Link](https://scarlet-ivory-36.tiiny.site/)<br />
 <img src="https://github.com/rehmanuet/DataEssential/blob/master/junk/ui-result.png?raw=true?raw=true" width="800" height="250" />
 
 _contact:`abdur.ashraf[at]andela[dot]com`_ 
