@@ -6,9 +6,9 @@
     </listeners>
     <test name="RestAssured-Java-Assignment" thread-count="1" preserve-order="true" enabled="true">
         <classes>
-            <class name="uitests.VerifyAccountRegistration"/>
-            <class name="uitests.VerifyLogin"/>
-            <class name="uitests.VerifyProductCheckout"/>
+            <class name="tests.VerifyAccountRegistration"/>
+            <class name="tests.VerifyLogin"/>
+            <class name="tests.VerifyProductCheckout"/>
         </classes>
     </test>
 </suite>

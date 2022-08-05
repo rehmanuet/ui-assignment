@@ -1,4 +1,4 @@
-package uitests;
+package tests;
 
 import com.relevantcodes.extentreports.LogStatus;
 import extent.ExtentTestManager;
